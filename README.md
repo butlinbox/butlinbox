@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @butlinbox
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-butlinbox/butlinbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+whoami /all >> 1.txt
+dir c:\widows >> 1.txt
+echo 123456 >> 1.txt
+reg query hklm >> 1.txt
